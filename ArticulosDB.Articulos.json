@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "64cba6fc16829f96205815e0"
+  },
+  "descripcion": "Lapiz",
+  "marca": "Faber",
+  "cantidad": 16
+}]
